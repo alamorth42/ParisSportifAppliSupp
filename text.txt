@@ -1,1 +1,1 @@
-equipe1: PSG equipe2: MAN U cote: 2,72
+equipe1: francis equipe2: achille cote: 3
