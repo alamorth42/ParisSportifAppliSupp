@@ -1,1 +1,1 @@
-equipe1: Arsenal equipe2: Rennes cote: 1,64
+equipe1: PSG equipe2: MAN U cote: 2,72
