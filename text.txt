@@ -1,1 +1,8 @@
-equipe1: francis equipe2: achille cote: 3
+equipe1: francis equipe2: achille 
+defrfffrefdsfdsfsdsd
+fsdfdsfdsfd
+dsfsdfdsfdsf
+fdsdss
+cote: 3
+sfdsdfdsfdsfsd
+dsffsfsdds
