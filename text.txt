@@ -1,8 +1,2 @@
-equipe1: francis equipe2: achille 
-defrfffrefdsfdsfsdsd
-fsdfdsfdsfd
-dsfsdfdsfdsf
-fdsdss
-cote: 3
-sfdsdfdsfdsfsd
-dsffsfsdds
+equipe1: coucou equipe2: bilel
+cote: 666
